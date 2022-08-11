@@ -1,6 +1,7 @@
 ## Hey, welcome to Vizzu on Github 👋
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/vizzuhq?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/vizzuhq?style=social)
 
 We're a small team building a data viz engine that - as [Elijah Meeks put it](https://twitter.com/Elijah_Meeks/status/1444002073792581633?s=09) - provides the most complete form of animating between chart forms. 
 
