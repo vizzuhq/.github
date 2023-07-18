@@ -17,7 +17,7 @@ A short summary of how we built Vizzu: First, we created an engine that provides
 
 Got a question? Want to suggest a new feature? Have a great idea for a data story? Come join our [Slack workspace](https://join.slack.com/t/vizzu-community/shared_invite/zt-w2nqhq44-2CCWL4o7qn2Ns1EFSf9kEg) and talk to us!
 
-Take a look on our [roadmap](https://github.com/vizzuhq/.github/wiki/Roadmap) to get an overview of our future plans and milestones.
+Take a look at our [roadmap](https://github.com/vizzuhq/.github/wiki/Roadmap) to get an overview of our future plans and milestones.
 
 All the news about us and our products are available on our [blog](https://blog.vizzuhq.com/)
 
